@@ -1,0 +1,2 @@
+create a new folder name fastapi-env 
+-> python -m venv fastapi-env
